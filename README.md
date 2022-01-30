@@ -38,7 +38,11 @@ Save the document and export the file as Single web page with Clickable Prototyp
 ![output5](./page5.png) 
 
 ## HTML Doc page (Clickable Prototype HTML Template):
-![outputdoc](./htmldoc1.png) 
+![outputdoc1](./htmldoc1.png) 
+![outputdoc2](./hdoc2.png) 
+![outputdoc3](./hdoc3.png) 
+![outputdoc4](./hdoc4.png) 
+![outputdoc5](./hdoc5.png) 
 
 ## Result:
 Thus a wire frame is designed for a given website.
